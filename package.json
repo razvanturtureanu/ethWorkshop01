@@ -1,0 +1,28 @@
+{
+  "name": "ethworkshop01",
+  "version": "1.0.0",
+  "description": "The Workshop on Ethereum on the 27th of January",
+  "main": "compileDeployed.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/razvanturtureanu/ethWorkshop01.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/razvanturtureanu/ethWorkshop01/issues"
+  },
+  "homepage": "https://github.com/razvanturtureanu/ethWorkshop01#readme",
+  "dependencies": {
+    "ganache-cli": "^6.8.2",
+    "mocha": "^7.0.1",
+    "solc": "^0.5.10",
+    "web3": "^1.2.5"
+  }
+}
