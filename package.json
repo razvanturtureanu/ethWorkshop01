@@ -21,7 +21,7 @@
   "homepage": "https://github.com/razvanturtureanu/ethWorkshop01#readme",
   "dependencies": {
     "ganache-cli": "^6.8.2",
-    "mocha": "^7.0.1",
+    "mocha": "^10.2.0",
     "solc": "^0.5.10",
     "web3": "^1.2.5"
   }
